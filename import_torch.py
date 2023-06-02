@@ -1,5 +1,6 @@
-import torch
-from d2l import torch as d2l
+import numpy as np
 
-x = torch.zeros((5,4))
+x = np.zeros((5,4))
 print(x)
+
+x = 
